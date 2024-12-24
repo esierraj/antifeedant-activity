@@ -203,7 +203,7 @@ axes4[0].plot(range(len(df_wei['Tratamiento'])),
               linestyle='--',
               label='Tendencia')
 
-# Gráfico 1: Peso total de las 30 larvas a las 0 h
+# Gráfico 2: Peso total de las 30 larvas a las 48 h
 sns.barplot(data = df_wei,
             x="Tratamiento",
             y="Peso total 48 h",
