@@ -41,7 +41,7 @@ The code relies on the following Python libraries for data processing and visual
 ## How to Use This Repository  
 
 1. Download the experimental data in Excel format.  
-2. Format the input file according to the script requirements or use the "Lippia_spod.xlsx" file for testing. 
+2. Format the input file according to the script requirements or use the [Lippia_spod.xlsx](Lippia_spod.xlsx) file for testing. 
 3. Run the main scripts to generate the desired analyses and visualizations.  
 
 ## Objective  
