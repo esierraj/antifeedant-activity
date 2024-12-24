@@ -10,7 +10,7 @@ antialimentario de un extracto etanólico de Lippia alba contra Spodoptera frugi
 
 ### Procesamiento y organización de los datos
 ## Cargar archivo
-file_name = "C:/Users/EGWER/Desktop/Proyecto bioproductos Orinoquia/Lippia alba/Lippia_spod.xlsx"  # Ruta del archivo con los datos
+file_name = "C:/Users/USER/Desktop/Folder/file.xlsx"  # Ruta del archivo con los datos
 
 ## Crear dataframes para el conjunto de datos del ensayo de no escogencia
 df_area = pd.read_excel(file_name, sheet_name="NE")  # Areas remanentes del ensayo
