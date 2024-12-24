@@ -36,7 +36,6 @@ The code relies on the following Python libraries for data processing and visual
 ## Requirements  
 
 - Python 3.8 or later.  
-- Required libraries (see `requirements.txt`).  
 
 ## How to Use This Repository  
 
